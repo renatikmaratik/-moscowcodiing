@@ -1,4 +1,17 @@
 h1, h2{
     background-color: black;
     color: white;
+    padding: 15px;
+}
+
+p {
+    margin: 20px;
+}
+
+.introduction {
+    margin: 20px;
+}
+
+h3, ul {
+    margin: 20px;
 }
